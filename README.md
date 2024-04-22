@@ -7,7 +7,6 @@
        📚 I'm passionate about books, and my favorite writer is Maria Carolina de Jesus. Who is yours?
        🏃🏾‍♀️ I run every day! 
        🗣️Brazilian Portuguese, English, Spanish, French, Italian.
-  
 <div >  <img align="right"  width="170" src="https://i.pinimg.com/736x/ec/9a/56/ec9a565bc3792132d2600a4be5034902.jpg"/>  </div>
 
 <div align="center">
