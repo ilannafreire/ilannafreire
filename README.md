@@ -10,7 +10,6 @@
   
 <div >  <img align="right"  width="170" src="https://i.pinimg.com/736x/ec/9a/56/ec9a565bc3792132d2600a4be5034902.jpg"/>  </div>
 
-
 <div align="center">
   <a href="https://github.com/ilannafreire">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilannafreire&show_icons=true&theme=dracula&title_color=B32134&include_all_commits=true&count_private=true"/>
