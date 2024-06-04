@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm [Ilanna](https://www.linkedin.com/in/ilanna-freire/), a hands-on full-stack developer from Brazil specializing in Java and Angular! 
 
        🧩 I'm autistic!
-       🐍 I'm learning Python! 
+       🐍 I'm learning Python!
+       ⌨️ Also, I'm practicing C#. Let's code together?
        💭 You can ask me about my projects.
        📚 I'm passionate about books, and my favorite writer is Maria Carolina de Jesus. Who is yours?
        🏃🏾‍♀️ I run every day! 
