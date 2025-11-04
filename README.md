@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Ilanna](https://www.linkedin.com/in/ilanna-freire/), a hands-on full-stack developer from Brazil specializing in Java and Angular! 
+### Hi there 👋, I'm [Ilanna](https://www.linkedin.com/in/ilanna-freire/), a hands-on full-stack developer from Brazil specializing in Java!
 
        🧩 I'm autistic! ASD
        ⌨️ I'm learning Python and IA! Let's code together?
