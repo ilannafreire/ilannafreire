@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm [Ilanna](https://www.linkedin.com/in/ilanna-freire/), a hands-on full-stack developer from Brazil specializing in Java and Angular! 
 
        🧩 I'm autistic! ASD
-       ⌨️ I'm learning Python, C and IA !Let's code together?
+       ⌨️ I'm learning Python and IA! Let's code together?
        💭 You can ask me about my projects.
-       📚 I'm passionate about books, and my favorite writer is Maria Carolina de Jesus. Who is yours?
+       📚 I'm passionate about books and my favorite writer is Maria Carolina de Jesus. Who is yours?
        🏃🏾‍♀️ I run every day! 
-       🗣️Brazilian Portuguese, English, Spanish, French, Italian.
+       🗣️Brazilian Portuguese, English, Spanish, Italian.
 <div >  <img align="right"  width="170" src="https://i.pinimg.com/736x/ec/9a/56/ec9a565bc3792132d2600a4be5034902.jpg"/>  </div>
 
 <div align="center">
@@ -26,7 +26,9 @@ These are some of the technologies and tools that I work with:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />    
 
 ### Frontend
@@ -37,6 +39,12 @@ These are some of the technologies and tools that I work with:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />  
+
+### 🤖 Artificial Intelligence and Bots
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white) 
+![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
+![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 
 ### Database
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
